@@ -183,8 +183,8 @@ main {
     position: relative;
 
     margin: auto;
-    margin-bottom: 57px;
-    margin-top: 57px;
+    margin-bottom: 66px;
+    margin-top: 77px;
     border: 6px hsla(0, 0%, 100%, .25) solid;
     border-radius: 6px;
     border-left-width: 6px;
@@ -274,7 +274,8 @@ main {
     position: relative;
 
     margin-left: 30px;
-    margin-bottom: 35px;
+    margin-bottom: 37px;
+    margin-top: 45px;
     border: 6px hsla(0, 0%, 100%, .25) solid;
     border-radius: 3px;
     border-left-width: 6px;
@@ -320,8 +321,8 @@ main {
     padding-left: 25px;
     padding-right: 5px;
     margin-left: 225px;
-    margin-bottom: 28px;
-    margin-top: 28px;
+    margin-bottom: 40px;
+    margin-top: 45px;
     border: 6px hsla(0, 0%, 100%, .25) solid;
     border-radius: 3px;
     border-left-width: 6px;
@@ -373,8 +374,8 @@ figure:hover figcaption {
 
     padding: 15px;
     margin-left: 215px;
-    margin-bottom: 28px;
-    margin-top: 28px;
+    margin-bottom: 40px;
+    margin-top: 45px;
     border: 6px hsla(0, 0%, 100%, .25) solid;
     border-radius: 3px;
     border-left-width: 6px;
@@ -430,7 +431,7 @@ figure:hover figcaption {
 .columna1 {
     float: left;
     margin-bottom: 90px;
-    margin-top: 70px;
+    margin-top: 100px;
     margin-left: 147px;
 
     animation: entrada5 2.5s;
@@ -458,7 +459,7 @@ figure:hover figcaption {
     width: 545px;
     height: 277px;
     margin-left: 30px;
-    margin-top: 70px;
+    margin-top: 100px;
     margin-bottom: -27px;
     background-color: hsla(166, 10%, 69%, 0.59);
     padding: 10px 50px 95px 50px;
